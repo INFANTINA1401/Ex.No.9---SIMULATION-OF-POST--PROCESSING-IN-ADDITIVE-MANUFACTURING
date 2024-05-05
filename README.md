@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 03/06/2023
+### DATE:
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -121,8 +121,8 @@ When a part is placed in an oven for heat treatment, it undergoes controlled hea
 
 The final part refers to the component or material after undergoing heat treatment, which modifies its properties. It exhibits improved mechanical properties, dimensional stability, surface characteristics, and material integrity. It is inspected to ensure it meets specifications and is suitable for its intended application.
 
-### Name:212222100042
-### Register Number:RAJESH A
+### Name:INFANTINA MARIA L
+### Register Number:212223100013
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
